@@ -1,7 +1,7 @@
 import streamlit as st
 
 def app():
-    st.title('Model1')
+    st.title('genData')
 
     st.write('This is the `home page` of this multi-page app.')
 
