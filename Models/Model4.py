@@ -1,8 +1,8 @@
 import streamlit as st
 
 def app():
-    st.title('Model4')
+    st.title('Prior_Auth_Final')
 
-    st.write('This is the `home page` of this multi-page app.')
+    st.write('This is the `Prior_Auth_Final`')
 
     st.write('In this app, we will be building a simple classification model using the Iris dataset.')
